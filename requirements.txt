@@ -1,0 +1,9 @@
+# 由于在本地跑的，开发环境较老，若有更好的环境配置，可以修改
+# 2025年6月作者创建虚拟环境py 3.8测试无误
+
+transformers==4.1.1
+nltk==3.9.1
+scikit-learn==0.24.2
+pytorch-lightning==1.5.10
+tensorboardX==2.4
+psutil==7.0.0
